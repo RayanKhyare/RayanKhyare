@@ -5,6 +5,6 @@
 - :u6e80: I also like animes a LOT.
 
 
-## Social media's
+## Social media
 - 🙍Linkedin : https://www.linkedin.com/in/rayankhyare/
 
