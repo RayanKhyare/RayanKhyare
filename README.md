@@ -4,3 +4,7 @@
 - :evergreen_tree: I place a lot of importance on minimalism and aesthetics in my work.
 - :u6e80: I also like animes a LOT.
 
+
+## Social media's
+- 🙍Linkedin : https://www.linkedin.com/in/rayankhyare/
+
