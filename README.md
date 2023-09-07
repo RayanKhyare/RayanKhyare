@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RayanKhyare
-- 👀 I’m interested in web development and UI/UX Design
-- 🌱 I’m currently learning React native
-- :evergreen_tree: I place a lot of importance on minimalism and aesthetics in my work.
-- :u6e80: I also like animes a LOT.
+# 👋 Hi, I’m @RayanKhyare
 
+## About Me
+- 👀 I’m passionate about web development and UI/UX Design.
+- 🌱 Currently, I'm expanding my skills in React Native.
+- :evergreen_tree: I value minimalism and aesthetics in my work.
+- :u6e80: Anime enthusiast.
 
-## Social media
-- 🙍Linkedin : https://www.linkedin.com/in/rayankhyare/
-
+## Connect with Me
+- 🙍 LinkedIn: [Rayan Khyare](https://www.linkedin.com/in/rayankhyare/)
