@@ -1,4 +1,4 @@
-![alt text](github_header.png)
+![alt text](./assets/github_header.png)
 
 # 👋 Hi, I’m @RayanKhyare
 
